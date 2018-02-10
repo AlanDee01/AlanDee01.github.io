@@ -12,4 +12,4 @@ Born in Montreal, currently living in Calgary, and in the process of retraining 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alandee8@gmail.com](mailto:alandee8@gmail.com)
