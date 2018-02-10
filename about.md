@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alan Dee, aspiring web developper, amateur blogger.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Born in Montreal, currently living in Calgary, and in the process of retraining for this exciting industry.
 
 ### Contact me
 
